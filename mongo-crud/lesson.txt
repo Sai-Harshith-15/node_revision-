@@ -1,0 +1,20 @@
+monogodb installation
+
+monogodb collection
+
+schema
+model
+CRUD
+
+
+there are 2 servers in the one is node server and another one is the monogo db server. the mongoose will help to make a connection b/w node server and mongo db server.
+
+
+ORM (Object Relational Mapping)
+
+ODM (Object Document Mapping)
+
+
+_id:24 chars
+
+_v: 0
